@@ -6,4 +6,4 @@ To repozytorium zawiera zbiór wierszy które powstawały spontanicznie na pogra
 
 Możesz również je przeczytać na: http://poeticto.blogspot.ie
 
-Jest również wersja epub do ściągniecia z: https://github.com/sokoow/poezja-pl/releases/download/0.1/sokoow-poems-en.epub
+Jest również wersja epub, mobi i pdf do ściągniecia z: https://github.com/sokoow/poezja-pl/releases/tag/0.1
